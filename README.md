@@ -20,15 +20,13 @@ Atividades desenvolvidas:
 - delete-array: contem uma forma de deletar dados do meu vetor (array);
 - delete-array2: contem a forma que o usuario consiga deletar algum dado no meu vetor.Tornado o sistema mais dinamico;
 #
-- **Modulo B:**
-- ..........;
-- ..........;
-- ..........;
+- **Condicionais:**
+- if: apresenta a forma da estruturacao de um if & else na tecnologia;
+- case: apresenta a forma da estruturacao  do switch case na tecnologia;
+- rodizio: tratase de um exercicio que fiz para praticar o "switch case";
 #
-- **Modulo C:** 
-- ..........;
-- ..........;
-- ..........;
+- **Quiz de basquete:** 
+- quiz:E um quiz de basquete basico que criei com auxilio do chat-gpt para corrigir algum erro de sintaxe que eu n tenha visto pois estou aptendendo;
 #
 - **Modulo D:**
 - ..........;
