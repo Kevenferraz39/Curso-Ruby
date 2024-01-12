@@ -15,10 +15,10 @@ Esse repositorio esta sendo desenvolvido para Conter as atividades desenvolvidas
 
 Atividades desenvolvidas:
 
-- **Modulo A:** 
-- ..........;
-- ..........;
-- ..........;
+- **Array:**
+- lista: apresenta o vetor (array);
+- delete-array: contem uma forma de deletar dados do meu vetor (array);
+- delete-array2: contem a forma que o usuario consiga deletar algum dado no meu vetor.Tornado o sistema mais dinamico;
 #
 - **Modulo B:**
 - ..........;
